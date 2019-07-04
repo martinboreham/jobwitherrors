@@ -1,0 +1,5 @@
+{
+  "runId": "17c5185c-e1a8-4291-a4b0-0f48dce685bc",
+  "statusURI": "https://localhost:8443/automation-api/run/status/17c5185c-e1a8-4291-a4b0-0f48dce685bc?token=F35B8EEF02A5B9683F2E1E92F3E7759FB235E34E274417623D270E3B361910AFA2F1E3D98AA7A0A876C18C81A748BB26B625394FBA4810B3F7EE3EF62330ECAF",
+  "monitorPageURI": "https://localhost:8443/SelfService#Workbench:runid=17c5185c-e1a8-4291-a4b0-0f48dce685bc&title=ide-test-flow.json"
+}
