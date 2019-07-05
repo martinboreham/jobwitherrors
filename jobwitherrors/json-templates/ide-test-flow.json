@@ -9,6 +9,8 @@
     "WorkbenchSampleFlow": {
         "Type": "Folder",
    		"SiteStandard": "",
+   		"Description": "description",
+
    		"ControlmServer" : "workbench",
    		
         "GetPosts": {
